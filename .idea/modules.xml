@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/ChatRoom.iml" filepath="$PROJECT_DIR$/ChatRoom/ChatRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crawler/Crawler.iml" filepath="$PROJECT_DIR$/Crawler/Crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
