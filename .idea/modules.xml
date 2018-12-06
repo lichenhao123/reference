@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChatRoom/ChatRoom.iml" filepath="$PROJECT_DIR$/ChatRoom/ChatRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crawler/Crawler.iml" filepath="$PROJECT_DIR$/Crawler/Crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowJdbc/ShowJdbc.iml" filepath="$PROJECT_DIR$/ShowJdbc/ShowJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowReflect/ShowReflect.iml" filepath="$PROJECT_DIR$/ShowReflect/ShowReflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
     </modules>
   </component>
